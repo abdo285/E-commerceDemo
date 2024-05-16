@@ -1,0 +1,4 @@
+mongodb+srv://abdoelbeherey:ETavG9Ft9NlaTe6d@cluster0.s22lsm6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+ETavG9Ft9NlaTe6d
+
+mongodb+srv://abdoelbeherey:<password>@cluster0.s22lsm6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
